@@ -1,6 +1,7 @@
 {
   "name": "graohql",
   "version": "0.1.0",
+  "homepage": "https://emanuelberndtsson1.github.io/graphql",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
