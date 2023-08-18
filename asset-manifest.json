@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/graphql/static/css/main.f0d51c9a.css",
+    "main.js": "/graphql/static/js/main.1673692c.js",
+    "index.html": "/graphql/index.html",
+    "main.f0d51c9a.css.map": "/graphql/static/css/main.f0d51c9a.css.map",
+    "main.1673692c.js.map": "/graphql/static/js/main.1673692c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d51c9a.css",
+    "static/js/main.1673692c.js"
+  ]
+}
